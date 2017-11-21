@@ -1,0 +1,29 @@
+.telinha{
+	margin: 10px 0;
+}
+
+.joguinho{
+	border:1px solid grey;
+	height: 500px;
+	background: url("../imagens/cenario.png")no-repeat;
+	background-size: cover;
+	background-position: bottom;
+}
+
+h3{
+	margin-top: 0!important;
+}
+
+#cronometro{
+	position: fixed;
+	top: 550px;
+	 
+}
+
+#cenario img {
+	float: left;
+	padding: 2px
+}
+#cenario{
+	padding: 7px;
+}
